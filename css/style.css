@@ -1,0 +1,25 @@
+.c1{
+    background-color: yellowgreen;
+}
+.h1{
+    background-color: rgb(0, 242, 250);
+    color: rgb(0, 0, 0);
+
+}
+.c2{
+    background-color: rgb(101, 218, 6);
+    color: rgb(25, 0, 245);
+}
+.c3{
+    background-color: greenyellow;
+}
+.c4{
+    background-color: aquamarine;
+    
+}
+.c5{
+    border: 1px outset rgb(252, 235, 5);
+}
+.c6{
+    border: 2px outset green;
+}
